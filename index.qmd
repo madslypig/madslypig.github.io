@@ -1,11 +1,14 @@
 ---
 title: "madslypig.github.io"
+image: "willow.png.jpg",
+about:
+  template: broadside
+  image-shape: square
+  image-width: 20cm
 ---
 
-This is a Quarto website.
+My name is Maddie Cunningham and I am a Research Associate with the San Diego Zoo Wildlife Alliance. I currently work with an endangered species and aim to focus on how anthropogenic effects water quality and the surrounding ecosystem.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+-   Education:
 
-```{r}
-1 + 1
-```
+-   Experience:

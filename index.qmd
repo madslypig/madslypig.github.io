@@ -1,7 +1,15 @@
 ---
-title: "madslypig.github.io"
-about:
+title: "Maddie Cunningham"
+about: 
   template: broadside
+  image: "IMG_6169.jpg"
+format: 
+html:
+  theme: flatly
 ---
 
 My name is Maddie Cunningham and I am a Research Associate with the San Diego Zoo Wildlife Alliance. I currently work with an endangered species and I focus on how anthropogenic activity affect water quality and the surrounding ecosystem.
+
+I am a rescue certified diver, AAUS certified diver and have experiences with both fresh and salt water habitats. I also have my Wilderness First Aid Certification and keep up to date on other basic certificates like CPR.
+
+When I am not doing science things, I like working out, being outside, taking naps and playing hide and go seek with my dog, Otis!

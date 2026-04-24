@@ -1,9 +1,10 @@
 ---
 title: "Maddie Cunningham"
-about: marquee
+about: 
+  template: jolla
   image: "IMG_6195.jpg"
   image-shape: rounded
-  image-width: 10em
+  image-width: 20em
   image-alt: "Otis the dog"
 format: 
   html:

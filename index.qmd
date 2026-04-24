@@ -1,11 +1,13 @@
 ---
 title: "Maddie Cunningham"
-about: 
-  template: broadside
-  image: "IMG_6169.jpg"
+about: marquee
+  image: "IMG_6195.jpg"
+  image-shape: rounded
+  image-width: 10em
+  image-alt: "Otis the dog"
 format: 
-html:
-  theme: flatly
+  html:
+    theme: flatly
 ---
 
 My name is Maddie Cunningham and I am a Research Associate with the San Diego Zoo Wildlife Alliance. I currently work with an endangered species and I focus on how anthropogenic activity affect water quality and the surrounding ecosystem.
